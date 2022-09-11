@@ -23,8 +23,8 @@
         //Linux、MacOS、gitリポジトリで一般的な、ラインフィード(\n)のみ
         "endOfLine": "lf",
         // セミコロンが無いとエラーになる箇所にだけセミコロンを追加する
-        "semi": false,
-        "singleQuote": true,
+        // "semi": false,
+        "singleQuote": false,
         // 指定文字以上で折り返す
         "printWidth": 80,
         // タブサイズ
